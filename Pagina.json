@@ -1,0 +1,6 @@
+{
+  "key": "FPYUNA",
+  "content": "title(\"Meu Site MLFP Oficial\")\n\nh1(\"🌐 Bem-vindo ao Meu Site!\")\np(\"Este é um site criado usando a linguagem MLFP para o navegador Yenetdepp!\")\np(\"Aqui podemos formatar texto de forma simples e rápida.\")\n\nhr\n\nh2(\"✨ Funcionalidades\")\np(\"A linguagem MLFP permite criar páginas com:\")\np(\"• Títulos formatados\")\np(\"• Parágrafos\")\np(\"• Cores\")\np(\"• Negrito e Itálico\")\np(\"• Links (visuais)\")\np(\"• Separadores\")\n\nbr\n\nh3(\"Formatação de Texto\")\nbold(\"Texto em negrito \")\nitalic(\"e texto em itálico!\")\n\nbr\n\ncolor(\"Texto colorido em vermelho!\", \"#FF0000\")\nbr\ncolor(\"Texto verde!\", \"#00AA00\")\n\nhr\n\nh2(\"🔗 Links\")\np(\"Você pode marcar texto como link visual:\")\nlink(\"Clique aqui\")\n\nhr\n\nh2(\"📦 Sobre o Projeto\")\np(\"Este site foi criado como demonstração para o navegador Yenetdepp.\")\np(\"Ele pode ser compartilhado com apenas uma chave NetAccess!\")\n\nhr\n\nbold(\"Obrigado por visitar!\")\nitalic(\" Volte sempre!\")\n",
+  "filename": "meusite.mlfp",
+  "version": "1.0"
+}
