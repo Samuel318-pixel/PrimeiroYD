@@ -1,68 +1,6 @@
 {
   "key": "FPYUNA",
-  "content": "title("🌿 Fotossíntese - Explicação Simples 🌞")
-
-h1("O que é Fotossíntese?")
-color("A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias produzem seu próprio alimento usando luz solar.", "#2c3e50")
-
-hr
-
-h2("Quem realiza?")
-color("• Plantas", "#27ae60")
-color("• Algas", "#27ae60")
-color("• Cianobactérias", "#27ae60")
-
-br
-
-h2("O que elas precisam?")
-p("Para realizar a fotossíntese, são necessários três elementos principais:")
-
-color("🌞 Luz Solar", "#f1c40f")
-br
-color("💧 Água (H2O)", "#3498db")
-br
-color("🌬️ Gás Carbônico (CO2)", "#e74c3c")
-br
-br
-
-color("Esses ingredientes entram na planta e são transformados!", "#008000")
-
-hr
-
-h2("Como funciona?")
-p("Dentro das folhas existe um pigmento chamado ")
-bold("clorofila")
-p(", que absorve a luz do sol.")
-
-color("A energia da luz transforma água e gás carbônico em glicose e oxigênio.", "#16a085")
-
-br
-
-bold("Equação da Fotossíntese:")
-br
-color("CO2 + H2O + Luz → Glicose + O2", "#9b59b6")
-
-hr
-
-h2("Por que é importante?")
-color("✅ Produz oxigênio para os seres vivos respirarem", "#2ecc71")
-color("✅ Produz alimento para a planta e para outros seres vivos", "#2ecc71")
-color("✅ Remove CO2 da atmosfera", "#2ecc71")
-
-hr
-
-h2("Curiosidade")
-italic("Você sabia que a fotossíntese é responsável por grande parte do oxigênio do planeta?")
-
-hr
-
-h2("Resumo Final")
-color("A fotossíntese é o processo em que plantas usam luz para produzir alimento e liberar oxigênio.", "#2980b9")
-color("Sem ela, a vida como conhecemos não existiria!", "#e67e22")
-
-hr
-
-italic("Clique duas vezes para recarregar 😊")")\n","
+  "content": "title(\"🌿 Fotossíntese - Explicação Simples 🌞\")\n\nh1(\"O que é Fotossíntese?\")\ncolor(\"A fotossíntese é o processo pelo qual plantas, algas e algumas bactérias produzem seu próprio alimento usando luz solar.\", \"#2c3e50\")\n\nhr\n\nh2(\"Quem realiza?\")\ncolor(\"• Plantas\", \"#27ae60\")\ncolor(\"• Algas\", \"#27ae60\")\ncolor(\"• Cianobactérias\", \"#27ae60\")\n\nbr\n\nh2(\"O que elas precisam?\")\np(\"Para realizar a fotossíntese, são necessários três elementos principais:\")\n\ncolor(\"🌞 Luz Solar\", \"#f1c40f\")\nbr\ncolor(\"💧 Água (H2O)\", \"#3498db\")\nbr\ncolor(\"🌬️ Gás Carbônico (CO2)\", \"#e74c3c\")\nbr\nbr\n\ncolor(\"Esses ingredientes entram na planta e são transformados!\", \"#008000\")\n\nhr\n\nh2(\"Como funciona?\")\np(\"Dentro das folhas existe um pigmento chamado \")\nbold(\"clorofila\")\np(\", que absorve a luz do sol.\")\n\ncolor(\"A energia da luz transforma água e gás carbônico em glicose e oxigênio.\", \"#16a085\")\n\nbr\n\nbold(\"Equação da Fotossíntese:\")\nbr\ncolor(\"CO2 + H2O + Luz → Glicose + O2\", \"#9b59b6\")\n\nhr\n\nh2(\"Por que é importante?\")\ncolor(\"✅ Produz oxigênio para os seres vivos respirarem\", \"#2ecc71\")\ncolor(\"✅ Produz alimento para a planta e para outros seres vivos\", \"#2ecc71\")\ncolor(\"✅ Remove CO2 da atmosfera\", \"#2ecc71\")\n\nhr\n\nh2(\"Curiosidade\")\nitalic(\"Você sabia que a fotossíntese é responsável por grande parte do oxigênio do planeta?\")\n\nhr\n\nh2(\"Resumo Final\")\ncolor(\"A fotossíntese é o processo em que plantas usam luz para produzir alimento e liberar oxigênio.\", \"#2980b9\")\ncolor(\"Sem ela, a vida como conhecemos não existiria!\", \"#e67e22\")\n\nhr\n\nitalic(\"Clique duas vezes para recarregar 😊\")",
   "filename": "meusite.mlfp",
   "version": "1.0"
 }
